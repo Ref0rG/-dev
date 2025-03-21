@@ -1,0 +1,19 @@
+BAŞLANGIÇ OLARAK
+
+menu.py -- program arayüz tasarım planı
+
+kütüphane olmadığı durumda kütüphane indirme kuyruğunu gösterecek pencere
+klasöre eklenmiş veri setlerini seçtirecek combobox ve analiz et butonu
+modelleri listeleyip seçtirecek combobox, test oranı belirleleme kutusu ve test et butonu
+veri seti oluştur butonu ( oluşturmak için tür seçimi yapılacak combobox ve onay butonu basıldığında 
+                           yeni pencerede ilgili form yapısı oluşacak)
+geçmişi görüntüle butonu (yeni pencerede: son işlem üstte olacak şekilde ;
+                                                                           işlem tarihi
+                                                                           model türü
+                                                                           veri seti adı
+                                                                           test oranı
+                                                                           sonuç, uygunsa programın aldığı ekran görüntüsü halinde)
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
