@@ -1,6 +1,0 @@
-veri_seti_ekle.py sayfasında class yapısı ile oluşturulacak, genel kullanımla ilgili alanlar fonksiyon olarak yazılacak
-
-menu.py dosyasının olduğu klasörde 'veri setleri' isimli klasör olup olmadığını kontrol edecek, yoksa oluşturacak.
-içerisindeki csv uzantılı dosyaları sayacak ve alfabetik olarak combobox ile listeleyecek. 
-kullan butonu basılınca seçilen veri setinin içerisindekileri 'veri_seti_analiz.py' sayfasındaki fonksiyonlar veya sınıflar kullanılarak
-model eğitimleri için csv dosya içeriğini kullanıma hazır hale getirecek. 

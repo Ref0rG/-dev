@@ -1,9 +1,0 @@
-python -m pip install python-csv
-python -m pip instal pandas
-python -m pip instal numpy
-python -m pip instal tk
-python -m pip instal openpyxl
-python -m pip instal pyinstaller
-python -m pip instal os-sys
-python -m pip instal matplotlib
-python -m pip instal datetime
